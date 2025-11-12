@@ -41,3 +41,6 @@ services:
     stdin_open: true     # keep stdin open (interactive)
     tty: true            # enable terminal interaction
     restart: "no"
+
+docker compose build
+docker compose run humanlike-ai
