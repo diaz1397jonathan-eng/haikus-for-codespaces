@@ -1,0 +1,9 @@
+humanlike_ai/
+├── agent.py
+├── llm_adapter.py
+├── memory.py
+├── planner.py
+├── run_agent.py
+├── requirements.txt
+├── Dockerfile
+└── docker-compose.yml
